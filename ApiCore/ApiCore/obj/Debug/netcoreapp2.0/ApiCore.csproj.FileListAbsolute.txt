@@ -1,0 +1,11 @@
+D:\GIT\Core\ApiCore\ApiCore\bin\Debug\netcoreapp2.0\ApiCore.deps.json
+D:\GIT\Core\ApiCore\ApiCore\bin\Debug\netcoreapp2.0\ApiCore.runtimeconfig.json
+D:\GIT\Core\ApiCore\ApiCore\bin\Debug\netcoreapp2.0\ApiCore.runtimeconfig.dev.json
+D:\GIT\Core\ApiCore\ApiCore\bin\Debug\netcoreapp2.0\ApiCore.dll
+D:\GIT\Core\ApiCore\ApiCore\bin\Debug\netcoreapp2.0\ApiCore.pdb
+D:\GIT\Core\ApiCore\ApiCore\obj\Debug\netcoreapp2.0\ApiCore.csprojResolveAssemblyReference.cache
+D:\GIT\Core\ApiCore\ApiCore\obj\Debug\netcoreapp2.0\ApiCore.csproj.CoreCompileInputs.cache
+D:\GIT\Core\ApiCore\ApiCore\obj\Debug\netcoreapp2.0\ApiCore.AssemblyInfoInputs.cache
+D:\GIT\Core\ApiCore\ApiCore\obj\Debug\netcoreapp2.0\ApiCore.AssemblyInfo.cs
+D:\GIT\Core\ApiCore\ApiCore\obj\Debug\netcoreapp2.0\ApiCore.dll
+D:\GIT\Core\ApiCore\ApiCore\obj\Debug\netcoreapp2.0\ApiCore.pdb
